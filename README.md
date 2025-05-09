@@ -28,7 +28,7 @@
 
 #### 🗄️ Databases & Cloud
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,gcp" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,ssms,gcp" />
 </p>
 
 ---
