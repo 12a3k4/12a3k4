@@ -1,7 +1,7 @@
 <!-- PROFILE HEADER -->
 <h1 align="center">Hi 👋, I'm Ali Akbar Said</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&color=00F7FF&width=435&lines=Full-Stack+Web+Developer;AI+Enthusiast;Open+Source+Lover;Cloud+&+Data+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&color=00F7FF&width=435&lines=Full-Stack+Web+Developer;AI+Enthusiast;Open+Source+Lover;Cloud+and+Data+Explorer" alt="Typing SVG" />
 </p>
 
 ---
