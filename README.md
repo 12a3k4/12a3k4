@@ -23,7 +23,7 @@
 
 #### ⚒️ Frameworks & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,laravel,codeigniter,bootstrap,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,laravel,ci,bootstrap,vscode" />
 </p>
 
 #### 🗄️ Databases & Cloud
