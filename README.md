@@ -28,10 +28,10 @@ Development while exploring the principles of Artificial Intelligence.
 </p>
 
 <p align="center">
-    <a href="#"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thec41n&theme=dark"/></a>
-    <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=thec41n&hide_border=true&card_width=338&theme=dark"/></a>
-    <a href="#"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=thec41n&theme=dark" /></a>
-    <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thec41n&hide_border=true&layout=compact&theme=dark" /></a>
+    <a href="#"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=12a3k4&theme=dark"/></a>
+    <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=12a3k4&hide_border=true&card_width=338&theme=dark"/></a>
+    <a href="#"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=12a3k4&theme=dark" /></a>
+    <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=12a3k4&hide_border=true&layout=compact&theme=dark" /></a>
 </p>
 
 
