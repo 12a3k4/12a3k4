@@ -10,7 +10,7 @@
 - 🌱 I’m currently diving deeper into **AI & Cloud Infrastructure**
 - 👯 I’m looking to collaborate on **open-source projects**
 - 🎯 Goal: Becoming a **Tech Leader** in Web + AI
-- 📫 Reach me at: `d.aliakbarsaid@gmail.com`
+- 📫 Reach me at: [aliakbarsaid@gmail.com](mailto:aliakbarsaid@gmail.com)
 
 ---
 
