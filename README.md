@@ -23,12 +23,12 @@
 
 #### ⚒️ Frameworks & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,laravel,ci,bootstrap,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,laravel,bootstrap,vscode,ci" />
 </p>
 
 #### 🗄️ Databases & Cloud
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,ssms,gcp" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,gcp,ssms" />
 </p>
 
 ---
